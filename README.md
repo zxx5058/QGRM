@@ -32,7 +32,12 @@
 If you have any questions, please contact Xinxin Zhang(Zhangxinxin5058@163.com) or Menghan Hu(mhhu@ce.ecnu.edu.cn).
 
 ## ✨A Gentle Introduction
-The QGRM (Quality-Guided Respiration Monitoring) algorithm integrates a two-stage motion artifact suppression module and a quality-guided peak detection module (QGPD). The former module enhances signal stability through FIR
-filtering and amplitude limiting, while the latter improves respiration rate estimation by filtering false peaks based on amplitude and zero-crossing constraints. We can achieve the real-time respiration monitoring even in laptop.
+The QGRM (Quality-Guided Respiration Monitoring) algorithm incorporates a two-stage motion artifact suppression module and a quality-guided peak detection module (QGPD). The former enhances signal stability using FIR filtering and amplitude limiting, while the latter refines respiratory rate estimation by suppressing false peaks through amplitude thresholds and zero-crossing constraints. This approach enables real-time respiration monitoring even on lightweight or low-performance laptops.
+
 
 This is an overview of the proposed QGRM diagram.
+![image](https://github.com/zxx5058/QGRM/blob/main/ImgeFolder/Diagram.png)
+
+➡️[QGRM Code Download Links](https://pan.baidu.com/s/1RPGicokJLCXRwUyZkPUgjw?pwd=2025)
+Extraction Code: 2025
+
