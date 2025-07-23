@@ -5,15 +5,15 @@
 <p align="center">
   <strong>Xinxin Zhang <sup>1</sup></sup></strong>
   .
-  <strong>Gan Pei <sup>1</sup></sup></strong>
-  .
   <strong>Chenrui Niu <sup>1</sup></sup></strong>
   .
-  <strong>Feng Zheng<sup>1</sup></strong>
+  <strong>Zhanzhan Cheng <sup>2</sup></sup></strong>
   .
-  <strong>Guangtao Zhai<sup>2</sup></strong>
+  <strong>Nengfeng Qian <sup>3</sup></sup></strong>
   .
-  <strong>Xiao-Ping Zhang<sup>3</sup></strong>
+  <strong>Changyin Wu <sup>3</sup></sup></strong>
+  .
+  <strong>Guangtao Zhai<sup>4</sup></strong>
   .
   <strong>Menghan Hu<sup>1</sup></strong>
 </p>
@@ -21,8 +21,9 @@
 
 <p align="center">
   <strong><sup>1</sup>East China Normal University</strong> &nbsp;&nbsp;&nbsp;
-  <strong><sup>2</sup>Shanghai Jiao Tong University</strong> &nbsp;&nbsp;&nbsp;
-  <strong><sup>3</sup>Tsinghua Berkeley Shenzhen Institute</strong> &nbsp;&nbsp;&nbsp;
+  <strong><sup>2</sup>Zhejiang University</strong> &nbsp;&nbsp;&nbsp;
+  <strong><sup>3</sup>Hangzhou EZVIZ Network</strong> &nbsp;&nbsp;&nbsp;
+  <strong><sup>4</sup>Shanghai Jiao Tong University</strong> &nbsp;&nbsp;&nbsp;
 </p>
 
 
